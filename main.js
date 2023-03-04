@@ -40,7 +40,7 @@ links.forEach((l) => {
 
 socialLinks.forEach(s => {
     s.onmouseover = () => {
-        let imgLink = s.firstElementChild.src.match(/\D+.svg/gi).join("").slice(1).split(".svg")[0];
+      let imgLink = s.firstElementChild.src.slice(0,-4)
         s.firstElementChild.src = imgLink+"-hover"+".svg";
         s.onmouseout = () => {
             s.firstElementChild.src = imgLink+".svg";
