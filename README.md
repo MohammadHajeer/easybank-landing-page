@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Desktop-version.jpeg)
-![](images/Mobile-version.png)
+![](screenshots/Desktop-version.jpeg)
+![](screenshots/Mobile-version.png)
 
 
 ### Links
@@ -45,5 +45,8 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mohammadhajeer)
+- Website - [Mohammad Hajeer](https://mohammadhajeer.github.io/Portfolio)
+- Frontend Mentor - [@MohammadHajeer](https://www.frontendmentor.io/profile/MohammadHajeer)
+
+
 
